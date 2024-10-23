@@ -1,0 +1,17 @@
+[33mcommit ed55ec7ba66e70d7f070577b86d19b0b79888822[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: kusma1912 <kusumasrinivas041@gmail.com>
+Date:   Wed Oct 23 16:44:11 2024 +0530
+
+    first commit
+
+[1mdiff --git a/git.txt b/git.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/githu b/githu[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c50f083[m
+[1m--- /dev/null[m
+[1m+++ b/githu[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mclass hii;[m
+\ No newline at end of file[m
